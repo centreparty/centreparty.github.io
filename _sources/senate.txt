@@ -1,0 +1,54 @@
+UK Senate
+=========
+
+Regional chamber
+----------------
+
+The House of Lords has an archaic charm but is not fit for the
+post-Brexit modern era.
+
+The American model of a Senate works quite well. One of its advantages
+is that it provides a regional balance.
+
+This is especially important in the UK where governance is extremely
+titled towards London. There are lots of indirect forms of
+representation and implicit biases that London enjoys.
+
+There are 100 or so historic counties in the UK, that is way too
+many. The US Senate has 100 members but it also has 5 times the
+population.
+
+One thing we can keep from our EU days is the regional map.
+
+.. image:: _static/region_map.png
+
+2 senators per region plus 1 senator for overseas territories and
+expats gives 25 senators which is a workable number. An odd number is
+good to prevent tied votes.
+
+Each term can be four years with staggered elections so that each
+region re-elects a senator every two years, apart from the overseas
+region which just elects its sole senator every four years.
+
+As in the US Senate, the senator with the longest tenure in each
+region is known as the "senior senator"; the other is the "junior
+senator".
+
+The Senate should be based somewhere else than London; such as
+Birmingham or Manchester.
+
+If the Senate is too powerful it will completely up-end our
+constitution. This system prevents that because the regions are not
+trying to have an equal population. This gives the House of Commons
+more democratic legitimacy and primacy.
+
+Transition
+----------
+
+There can be a transition period where existing Lords can speak in the
+Senate and assist the Senators but not vote, or if they can vote then
+a second majority of the "Lord Senators" are required to block House
+of Commons legislation.
+
+There can be a planned phaseout of the old appointed Lords or we can
+just let nature run its course.

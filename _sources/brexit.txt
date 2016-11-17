@@ -15,4 +15,5 @@ Brexit. What kind of independent country do we want to be?
    :maxdepth: 2
 
    animals.rst
+   senate.rst
 
