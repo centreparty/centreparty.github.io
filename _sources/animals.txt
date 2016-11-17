@@ -1,6 +1,9 @@
 Animal Welfare
 ==============
 
+Ratcheting Up Standards
+-----------------------
+
 There are people who argue that all meat eating is evil and so any
 attempts to improve the welfare of farm animals is pointless.
 
@@ -19,12 +22,14 @@ have as natural as experience as possible.
 Britain currently has some of the highest animal welfare standards in
 the world. However, we can do much better.
 
+.. image:: _static/chickens.jpg
+
 Until now we have been in a perverse situation, every time we
 unilaterally increase standards, we make our farmers less competitive,
 and increase the amount of imports we take and so increase the number
 of farm animals who live in poor conditions.
 
-After Brexit, Agricultural policy is decided by the UK
+After Brexit, Agricultural policy will be completely decided by the UK
 government. Industry lobbies notwithstanding and whatever we agree to
 in new trade agreements, there far less stopping us from insisting all
 imports must meet our own domestic standards.
@@ -53,3 +58,24 @@ consumers already buy free-ranged eggs when they go to the shop.
 Most of the battery eggs are used by restaurants and the catering
 industry. The increase in cost is fairly small, and you can still get
 economies of scale while increasing animal welfare.
+
+How to pay for the policy
+-------------------------
+
+This policy can be delivered using existing budgets.
+
+Agricultural subsidies are huge. They are based on securing the food
+supply in the immediate post-WW2 period. Rather than giving farmers
+money for nothing, we redirect the funding so that farmers receive the
+payments to improve animal welfare and environmental standards.
+
+    Hannah Martin, of Greenpeace UK’s Brexit response team, said:
+    "It's clear that there cannot be a business-as-usual approach to
+    farm subsidies after we leave the EU. Some of the recipients of
+    these subsidies are doing great work which benefits our
+    environment - but others are not - and it makes no sense that the
+    CAP’s largest subsidy payments don’t distinguish between the two."
+    (source_)
+
+
+.. _source: https://www.theguardian.com/environment/2016/sep/29/eu-farming-subsidies-uk-cap-ceiling-england
