@@ -4,8 +4,13 @@ UK Senate
 Regional chamber
 ----------------
 
-The House of Lords has an archaic charm but is not fit for the
-post-Brexit modern era.
+The House of Lords has an archaic charm but is not fit for the modern
+era, especially after Brexit when the non-democratic nature of the
+Lords is further exposed. It doesn't make sense to bring back control
+from an unelected European Commission to give it to an unelected
+Lords.
+
+.. image:: _static/lords.jpg
 
 One of the advantages of the American model of a Senate is that it
 provides a regional balance.
