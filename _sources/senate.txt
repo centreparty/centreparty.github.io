@@ -40,10 +40,12 @@ This means that every May 1st, around four Senators will be elected
 (perhaps a couple more if Senators die or resign in the preceding
 year).
 
-If you make elections only every two years like in the US, it will be
-around eight Senators, but then you will also need irregularly timed
-by-elections, making it more complicated. Making it only four senators
-each election gives each region more focus in their turn.
+    A small set of Senatorial elections every year would be like a
+    heart beat. Would that lead to more responsive democracy, or with
+    the political class constantly on edge, would nothing get done?
+    
+    Should a block of Senatorial elections instead be every two years
+    like in the US?
 
 As in the US Senate, the senator with the longest tenure in each
 region is known as the "senior senator"; the other is the "junior
