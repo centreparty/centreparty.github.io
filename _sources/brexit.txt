@@ -18,4 +18,4 @@ Brexit. What kind of independent country do we want to be?
 
    animals.rst
    senate.rst
-
+   devolution.rst
